@@ -1,7 +1,7 @@
 /*************************************************************************************************\
-*	Author: Zwolinski, R.																		  *
-*	Class: CST 113 / 133 / 202                                                                    *
-*   Project: Git Demo                                                                             *
+*    Author: Zwolinski, R.																		  *
+*    Class: CST 113 / 133 / 202                                                                    *
+*    Project: Git Demo                                                                             *
 *                                                                                                 *
 *   Description:                                                                                  *
 *   Creating a Demo to clone from Professor's Git to Student Git.                                 *
